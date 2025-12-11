@@ -1,0 +1,505 @@
+﻿Recording Name,Subject,Metric,Value,SubjectID,Block,Module
+p01-r1,被试001,Sensor Name,,export_P01_sheets,C,ECG HRV Time Domain
+p01-r2,被试001,Sensor Name,,export_P01_sheets,C,ECG HRV Time Domain
+p01-r3,被试001,Sensor Name,,export_P01_sheets,C,ECG HRV Time Domain
+p01-r1,被试001,Mean IBI(ms),745.1904296875003,export_P01_sheets,C,ECG HRV Time Domain
+p01-r1,被试001,Mean HR(bpm),81.0,export_P01_sheets,C,ECG HRV Time Domain
+p01-r1,被试001,SDNN(ms),43.40146671770181,export_P01_sheets,C,ECG HRV Time Domain
+p01-r1,被试001,SDANN(ms),0.0,export_P01_sheets,C,ECG HRV Time Domain
+p01-r1,被试001,RMSSD(ms),25.58125328448457,export_P01_sheets,C,ECG HRV Time Domain
+p01-r1,被试001,SDSD(ms),25.65734475819571,export_P01_sheets,C,ECG HRV Time Domain
+p01-r1,被试001,pNN50(%),5.031446540880503,export_P01_sheets,C,ECG HRV Time Domain
+p01-r1,被试001,pNN20(%),42.76729559748428,export_P01_sheets,C,ECG HRV Time Domain
+p01-r1,被试001,Segment Count,1.0,export_P01_sheets,C,ECG HRV Time Domain
+p01-r1,被试001,Sensor Name,,export_P01_sheets,C,ECG HRV Frequency Domain ULF Data
+p01-r2,被试001,Sensor Name,,export_P01_sheets,C,ECG HRV Frequency Domain ULF Data
+p01-r3,被试001,Sensor Name,,export_P01_sheets,C,ECG HRV Frequency Domain ULF Data
+p01-r1,被试001,Power(ms²),39.6196196800001,export_P01_sheets,C,ECG HRV Frequency Domain ULF Data
+p01-r1,被试001,Power Percent(%),2.425592794918673,export_P01_sheets,C,ECG HRV Frequency Domain ULF Data
+p01-r1,被试001,Peak(Hz),0.0009765625,export_P01_sheets,C,ECG HRV Frequency Domain ULF Data
+p01-r1,被试001,Segment Count,1.0,export_P01_sheets,C,ECG HRV Frequency Domain ULF Data
+p01-r1,被试001,Sensor Name,,export_P01_sheets,C,ECG HRV Frequency Domain  VLF Data
+p01-r2,被试001,Sensor Name,,export_P01_sheets,C,ECG HRV Frequency Domain  VLF Data
+p01-r3,被试001,Sensor Name,,export_P01_sheets,C,ECG HRV Frequency Domain  VLF Data
+p01-r1,被试001,Power(ms²),418.1919138841425,export_P01_sheets,C,ECG HRV Frequency Domain  VLF Data
+p01-r1,被试001,Power Percent(%),25.60254998416036,export_P01_sheets,C,ECG HRV Frequency Domain  VLF Data
+p01-r1,被试001,Peak(Hz),0.00390625,export_P01_sheets,C,ECG HRV Frequency Domain  VLF Data
+p01-r1,被试001,Segment Count,1.0,export_P01_sheets,C,ECG HRV Frequency Domain  VLF Data
+p01-r1,被试001,Sensor Name,,export_P01_sheets,C,ECG HRV Frequency Domain  LF Data
+p01-r2,被试001,Sensor Name,,export_P01_sheets,C,ECG HRV Frequency Domain  LF Data
+p01-r3,被试001,Sensor Name,,export_P01_sheets,C,ECG HRV Frequency Domain  LF Data
+p01-r1,被试001,Power(ms²),924.8369913536585,export_P01_sheets,C,ECG HRV Frequency Domain  LF Data
+p01-r1,被试001,Power Percent(%),56.62038052914724,export_P01_sheets,C,ECG HRV Frequency Domain  LF Data
+p01-r1,被试001,Power Norm.,0.7867016736187361,export_P01_sheets,C,ECG HRV Frequency Domain  LF Data
+p01-r1,被试001,Peak(Hz),0.1005859375,export_P01_sheets,C,ECG HRV Frequency Domain  LF Data
+p01-r1,被试001,Segment Count,1.0,export_P01_sheets,C,ECG HRV Frequency Domain  LF Data
+p01-r1,被试001,Sensor Name,,export_P01_sheets,C,ECG HRV Frequency Domain HF Data
+p01-r2,被试001,Sensor Name,,export_P01_sheets,C,ECG HRV Frequency Domain HF Data
+p01-r3,被试001,Sensor Name,,export_P01_sheets,C,ECG HRV Frequency Domain HF Data
+p01-r1,被试001,Power(ms²),250.7509378031666,export_P01_sheets,C,ECG HRV Frequency Domain HF Data
+p01-r1,被试001,Power Percent(%),15.35147669177373,export_P01_sheets,C,ECG HRV Frequency Domain HF Data
+p01-r1,被试001,Power Norm.,0.2132983263812639,export_P01_sheets,C,ECG HRV Frequency Domain HF Data
+p01-r1,被试001,Peak(Hz),0.150390625,export_P01_sheets,C,ECG HRV Frequency Domain HF Data
+p01-r1,被试001,Segment Count,1.0,export_P01_sheets,C,ECG HRV Frequency Domain HF Data
+p01-r1,被试001,Sensor Name,,export_P01_sheets,C,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r2,被试001,Sensor Name,,export_P01_sheets,C,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r3,被试001,Sensor Name,,export_P01_sheets,C,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r1,被试001,Total Power(ms²),1633.399462720968,export_P01_sheets,C,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r1,被试001,LF/HF,3.688269321966137,export_P01_sheets,C,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r1,被试001,Segment Count,1.0,export_P01_sheets,C,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r1,被试001,Sensor Name,,export_P01_sheets,C,ECG HRV Nonlinear
+p01-r2,被试001,Sensor Name,,export_P01_sheets,C,ECG HRV Nonlinear
+p01-r3,被试001,Sensor Name,,export_P01_sheets,C,ECG HRV Nonlinear
+p01-r1,被试001,SD1(ms),18.14248246576131,export_P01_sheets,C,ECG HRV Nonlinear
+p01-r1,被试001,SD2(ms),58.63637912145581,export_P01_sheets,C,ECG HRV Nonlinear
+p01-r1,被试001,A++(count),37.0,export_P01_sheets,C,ECG HRV Nonlinear
+p01-r1,被试001,B--(count),48.0,export_P01_sheets,C,ECG HRV Nonlinear
+p01-r1,被试001,Segment Count,1.0,export_P01_sheets,C,ECG HRV Nonlinear
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Time Domain
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Time Domain
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Time Domain
+p01-r1,被试001,Mean IBI(ms),687.4107142857147,export_P01_sheets,P,ECG HRV Time Domain
+p01-r1,被试001,Mean HR(bpm),87.0,export_P01_sheets,P,ECG HRV Time Domain
+p01-r1,被试001,SDNN(ms),40.72232667487989,export_P01_sheets,P,ECG HRV Time Domain
+p01-r1,被试001,SDANN(ms),0.0,export_P01_sheets,P,ECG HRV Time Domain
+p01-r1,被试001,RMSSD(ms),19.17122556342472,export_P01_sheets,P,ECG HRV Time Domain
+p01-r1,被试001,SDSD(ms),19.18647491078119,export_P01_sheets,P,ECG HRV Time Domain
+p01-r1,被试001,pNN50(%),2.099236641221374,export_P01_sheets,P,ECG HRV Time Domain
+p01-r1,被试001,pNN20(%),24.80916030534351,export_P01_sheets,P,ECG HRV Time Domain
+p01-r1,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Time Domain
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r1,被试001,Power(ms²),22.8879544594301,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r1,被试001,Power Percent(%),2.050026779589583,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r1,被试001,Peak(Hz),0.0029296875,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r1,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r1,被试001,Power(ms²),349.1574575958443,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r1,被试001,Power Percent(%),31.27331189135535,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r1,被试001,Peak(Hz),0.0263671875,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r1,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r1,被试001,Power(ms²),562.4785130342494,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r1,被试001,Power Percent(%),50.38003796747554,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r1,被试001,Power Norm.,0.7555872919138185,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r1,被试001,Peak(Hz),0.0400390625,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r1,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r1,被试001,Power(ms²),181.9470735972488,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r1,被试001,Power Percent(%),16.29662336157953,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r1,被试001,Power Norm.,0.2444127080861815,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r1,被试001,Peak(Hz),0.150390625,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r1,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r1,被试001,Total Power(ms²),1116.470998686773,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r1,被试001,LF/HF,3.091440284878286,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r1,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r1,被试001,SD1(ms),13.56688651647894,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r1,被试001,SD2(ms),55.9692359236773,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r1,被试001,A++(count),112.0,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r1,被试001,B--(count),144.0,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r1,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Time Domain
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Time Domain
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Time Domain
+p01-r1,被试001,Mean IBI(ms),715.6343005952376,export_P01_sheets,P,ECG HRV Time Domain
+p01-r1,被试001,Mean HR(bpm),84.0,export_P01_sheets,P,ECG HRV Time Domain
+p01-r1,被试001,SDNN(ms),37.07629677281756,export_P01_sheets,P,ECG HRV Time Domain
+p01-r1,被试001,SDANN(ms),0.0,export_P01_sheets,P,ECG HRV Time Domain
+p01-r1,被试001,RMSSD(ms),21.31159485435296,export_P01_sheets,P,ECG HRV Time Domain
+p01-r1,被试001,SDSD(ms),21.33177843848748,export_P01_sheets,P,ECG HRV Time Domain
+p01-r1,被试001,pNN50(%),2.982107355864811,export_P01_sheets,P,ECG HRV Time Domain
+p01-r1,被试001,pNN20(%),30.21868787276342,export_P01_sheets,P,ECG HRV Time Domain
+p01-r1,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Time Domain
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r1,被试001,Power(ms²),30.1863806834067,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r1,被试001,Power Percent(%),2.877650428417099,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r1,被试001,Peak(Hz),0.0009765625,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r1,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r1,被试001,Power(ms²),304.7084699779614,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r1,被试001,Power Percent(%),29.04768439683783,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r1,被试001,Peak(Hz),0.00390625,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r1,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r1,被试001,Power(ms²),517.6624325022666,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r1,被试001,Power Percent(%),49.3484640072945,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r1,被试001,Power Norm.,0.7249167348912972,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r1,被试001,Peak(Hz),0.099609375,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r1,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r1,被试001,Power(ms²),196.4367289412766,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r1,被试001,Power Percent(%),18.72620116745058,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r1,被试001,Power Norm.,0.2750832651087028,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r1,被试001,Peak(Hz),0.150390625,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r1,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r1,被试001,Total Power(ms²),1048.994012104911,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r1,被试001,LF/HF,2.635262943403106,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r1,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r1,被试001,SD1(ms),15.08384518862348,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r1,被试001,SD2(ms),50.2173394267132,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r1,被试001,A++(count),119.0,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r1,被试001,B--(count),132.0,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r1,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Time Domain
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Time Domain
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Time Domain
+p01-r2,被试001,Mean IBI(ms),748.0490499721614,export_P01_sheets,P,ECG HRV Time Domain
+p01-r2,被试001,Mean HR(bpm),80.0,export_P01_sheets,P,ECG HRV Time Domain
+p01-r2,被试001,SDNN(ms),47.56429471799187,export_P01_sheets,P,ECG HRV Time Domain
+p01-r2,被试001,SDANN(ms),8.31294809099683,export_P01_sheets,P,ECG HRV Time Domain
+p01-r2,被试001,RMSSD(ms),28.46162214591286,export_P01_sheets,P,ECG HRV Time Domain
+p01-r2,被试001,SDSD(ms),28.47739823286426,export_P01_sheets,P,ECG HRV Time Domain
+p01-r2,被试001,pNN50(%),7.692307692307693,export_P01_sheets,P,ECG HRV Time Domain
+p01-r2,被试001,pNN20(%),44.48160535117057,export_P01_sheets,P,ECG HRV Time Domain
+p01-r2,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Time Domain
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r2,被试001,Power(ms²),75.59222797274397,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r2,被试001,Power Percent(%),3.724832445413103,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r2,被试001,Peak(Hz),0.0009765625,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r2,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r2,被试001,Power(ms²),706.9957531008313,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r2,被试001,Power Percent(%),34.83745340683407,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r2,被试001,Peak(Hz),0.00390625,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r2,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r2,被试001,Power(ms²),936.9563598099896,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r2,被试001,Power Percent(%),46.16883960894474,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r2,被试001,Power Norm.,0.7514739154831241,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r2,被试001,Peak(Hz),0.0986328125,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r2,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r2,被试001,Power(ms²),309.8685006478992,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r2,被试001,Power Percent(%),15.26887453880807,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r2,被试001,Power Norm.,0.2485260845168758,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r2,被试001,Peak(Hz),0.150390625,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r2,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r2,被试001,Total Power(ms²),2029.412841531464,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r2,被试001,LF/HF,3.023722507615076,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r2,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r2,被试001,SD1(ms),20.13656140100812,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r2,被试001,SD2(ms),64.18133029926544,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r2,被试001,A++(count),231.0,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r2,被试001,B--(count),231.0,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r2,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Time Domain
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Time Domain
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Time Domain
+p01-r2,被试001,Mean IBI(ms),773.9728319057814,export_P01_sheets,P,ECG HRV Time Domain
+p01-r2,被试001,Mean HR(bpm),78.0,export_P01_sheets,P,ECG HRV Time Domain
+p01-r2,被试001,SDNN(ms),61.52679150979453,export_P01_sheets,P,ECG HRV Time Domain
+p01-r2,被试001,SDANN(ms),0.0,export_P01_sheets,P,ECG HRV Time Domain
+p01-r2,被试001,RMSSD(ms),39.78293449341088,export_P01_sheets,P,ECG HRV Time Domain
+p01-r2,被试001,SDSD(ms),39.82245281041484,export_P01_sheets,P,ECG HRV Time Domain
+p01-r2,被试001,pNN50(%),20.3862660944206,export_P01_sheets,P,ECG HRV Time Domain
+p01-r2,被试001,pNN20(%),57.93991416309013,export_P01_sheets,P,ECG HRV Time Domain
+p01-r2,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Time Domain
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r2,被试001,Power(ms²),49.91918916112565,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r2,被试001,Power Percent(%),1.906148618465416,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r2,被试001,Peak(Hz),0.0009765625,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r2,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r2,被试001,Power(ms²),582.0414731963148,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r2,被试001,Power Percent(%),22.22507153394863,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r2,被试001,Peak(Hz),0.00390625,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r2,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r2,被试001,Power(ms²),1301.875153970771,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r2,被试001,Power Percent(%),49.7116953992583,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r2,被试001,Power Norm.,0.6552325673238047,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r2,被试001,Peak(Hz),0.0615234375,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r2,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r2,被试001,Power(ms²),685.0150265464719,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r2,被试001,Power Percent(%),26.15708444832767,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r2,被试001,Power Norm.,0.3447674326761953,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r2,被试001,Peak(Hz),0.150390625,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r2,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r2,被试001,Total Power(ms²),2618.850842874683,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r2,被试001,LF/HF,1.900505979458906,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r2,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r2,被试001,SD1(ms),28.15872642572563,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r2,被试001,SD2(ms),82.32969253592891,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r2,被试001,A++(count),124.0,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r2,被试001,B--(count),116.0,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r2,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Time Domain
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Time Domain
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Time Domain
+p01-r3,被试001,Mean IBI(ms),777.4656791907512,export_P01_sheets,P,ECG HRV Time Domain
+p01-r3,被试001,Mean HR(bpm),77.0,export_P01_sheets,P,ECG HRV Time Domain
+p01-r3,被试001,SDNN(ms),54.09193462670433,export_P01_sheets,P,ECG HRV Time Domain
+p01-r3,被试001,SDANN(ms),11.23754817818791,export_P01_sheets,P,ECG HRV Time Domain
+p01-r3,被试001,RMSSD(ms),36.85400471095554,export_P01_sheets,P,ECG HRV Time Domain
+p01-r3,被试001,SDSD(ms),36.87510105983306,export_P01_sheets,P,ECG HRV Time Domain
+p01-r3,被试001,pNN50(%),14.81481481481481,export_P01_sheets,P,ECG HRV Time Domain
+p01-r3,被试001,pNN20(%),54.51388888888889,export_P01_sheets,P,ECG HRV Time Domain
+p01-r3,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Time Domain
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r3,被试001,Power(ms²),135.4243980118372,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r3,被试001,Power Percent(%),4.814159963508094,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r3,被试001,Peak(Hz),0.0009765625,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r3,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r3,被试001,Power(ms²),1115.127081096081,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r3,被试001,Power Percent(%),39.64130708239999,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r3,被试001,Peak(Hz),0.00390625,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r3,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r3,被试001,Power(ms²),883.8585931605579,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r3,被试001,Power Percent(%),31.42001526360281,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r3,被试001,Power Norm.,0.5656725080319202,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r3,被试001,Peak(Hz),0.0400390625,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r3,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r3,被试001,Power(ms²),678.6330970148516,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r3,被试001,Power Percent(%),24.1245176904891,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r3,被试001,Power Norm.,0.4343274919680798,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r3,被试001,Peak(Hz),0.150390625,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r3,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r3,被试001,Total Power(ms²),2813.043169283328,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r3,被试001,LF/HF,1.302410090295397,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r3,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r3,被试001,SD1(ms),26.0746340163472,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r3,被试001,SD2(ms),71.91653665349062,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r3,被试001,A++(count),204.0,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r3,被试001,B--(count),233.0,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r3,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Time Domain
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Time Domain
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Time Domain
+p01-r3,被试001,Mean IBI(ms),764.4275237843552,export_P01_sheets,P,ECG HRV Time Domain
+p01-r3,被试001,Mean HR(bpm),78.0,export_P01_sheets,P,ECG HRV Time Domain
+p01-r3,被试001,SDNN(ms),67.6131977327876,export_P01_sheets,P,ECG HRV Time Domain
+p01-r3,被试001,SDANN(ms),0.0,export_P01_sheets,P,ECG HRV Time Domain
+p01-r3,被试001,RMSSD(ms),36.38102144505965,export_P01_sheets,P,ECG HRV Time Domain
+p01-r3,被试001,SDSD(ms),36.4128930905856,export_P01_sheets,P,ECG HRV Time Domain
+p01-r3,被试001,pNN50(%),16.3135593220339,export_P01_sheets,P,ECG HRV Time Domain
+p01-r3,被试001,pNN20(%),51.27118644067797,export_P01_sheets,P,ECG HRV Time Domain
+p01-r3,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Time Domain
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r3,被试001,Power(ms²),183.7449750404808,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r3,被试001,Power Percent(%),5.116556507923372,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r3,被试001,Peak(Hz),0.0009765625,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r3,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r3,被试001,Power(ms²),1617.088979380652,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r3,被试001,Power Percent(%),45.02940632536163,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r3,被试001,Peak(Hz),0.00390625,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r3,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r3,被试001,Power(ms²),1209.453543360399,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r3,被试001,Power Percent(%),33.67840343360848,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r3,被试001,Power Norm.,0.6755401437397298,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r3,被试001,Peak(Hz),0.0400390625,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r3,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r3,被试001,Power(ms²),580.8968222965881,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r3,被试001,Power Percent(%),16.17563373310651,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r3,被试001,Power Norm.,0.3244598562602701,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r3,被试001,Peak(Hz),0.150390625,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r3,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r3,被试001,Total Power(ms²),3591.18432007812,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r3,被试001,LF/HF,2.082045376972108,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r3,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r3,被试001,SD1(ms),25.74780362697386,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r3,被试001,SD2(ms),92.08767357085779,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r3,被试001,A++(count),124.0,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r3,被试001,B--(count),117.0,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r3,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Time Domain
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Time Domain
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Time Domain
+p01-r3,被试001,Mean IBI(ms),770.4932703321878,export_P01_sheets,P,ECG HRV Time Domain
+p01-r3,被试001,Mean HR(bpm),78.0,export_P01_sheets,P,ECG HRV Time Domain
+p01-r3,被试001,SDNN(ms),61.51846708401138,export_P01_sheets,P,ECG HRV Time Domain
+p01-r3,被试001,SDANN(ms),14.08481896772042,export_P01_sheets,P,ECG HRV Time Domain
+p01-r3,被试001,RMSSD(ms),35.63646083978322,export_P01_sheets,P,ECG HRV Time Domain
+p01-r3,被试001,SDSD(ms),35.65640332859994,export_P01_sheets,P,ECG HRV Time Domain
+p01-r3,被试001,pNN50(%),14.79357798165138,export_P01_sheets,P,ECG HRV Time Domain
+p01-r3,被试001,pNN20(%),52.86697247706422,export_P01_sheets,P,ECG HRV Time Domain
+p01-r3,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Time Domain
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r3,被试001,Power(ms²),163.2662365290827,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r3,被试001,Power Percent(%),4.686732175421707,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r3,被试001,Peak(Hz),0.0009765625,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r3,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r3,被试001,Power(ms²),1478.680922895834,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r3,被试001,Power Percent(%),42.44711953829898,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r3,被试001,Peak(Hz),0.00390625,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r3,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r3,被试001,Power(ms²),1266.966709372519,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r3,被试001,Power Percent(%),36.36963629615249,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r3,被试001,Power Norm.,0.6879569909123061,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r3,被试001,Peak(Hz),0.0400390625,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r3,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r3,被试001,Power(ms²),574.6697971369687,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r3,被试001,Power Percent(%),16.49651199012683,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r3,被试001,Power Norm.,0.3120430090876938,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r3,被试001,Peak(Hz),0.150390625,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r3,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r3,被试001,Total Power(ms²),3483.583665934404,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r3,被试001,LF/HF,2.204686440255961,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r3,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r3,被试001,SD1(ms),25.2128845863756,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r3,被试001,SD2(ms),83.26676429144636,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r3,被试001,A++(count),206.0,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r3,被试001,B--(count),225.0,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r3,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Time Domain
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Time Domain
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Time Domain
+p01-r3,被试001,Mean IBI(ms),774.0742907546088,export_P01_sheets,P,ECG HRV Time Domain
+p01-r3,被试001,Mean HR(bpm),78.0,export_P01_sheets,P,ECG HRV Time Domain
+p01-r3,被试001,SDNN(ms),57.51637442410425,export_P01_sheets,P,ECG HRV Time Domain
+p01-r3,被试001,SDANN(ms),4.384002193297442,export_P01_sheets,P,ECG HRV Time Domain
+p01-r3,被试001,RMSSD(ms),33.12465018598886,export_P01_sheets,P,ECG HRV Time Domain
+p01-r3,被试001,SDSD(ms),33.14363455044041,export_P01_sheets,P,ECG HRV Time Domain
+p01-r3,被试001,pNN50(%),13.95617070357555,export_P01_sheets,P,ECG HRV Time Domain
+p01-r3,被试001,pNN20(%),50.17301038062283,export_P01_sheets,P,ECG HRV Time Domain
+p01-r3,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Time Domain
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r3,被试001,Power(ms²),143.8228701315722,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r3,被试001,Power Percent(%),5.125779757886876,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r3,被试001,Peak(Hz),0.0009765625,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r3,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Frequency Domain ULF Data
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r3,被试001,Power(ms²),1241.649757337735,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r3,被试001,Power Percent(%),44.25181604792481,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r3,被试001,Peak(Hz),0.00390625,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r3,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Frequency Domain  VLF Data
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r3,被试001,Power(ms²),948.4425452815325,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r3,被试001,Power Percent(%),33.80204828116262,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r3,被试001,Power Norm.,0.667729018785782,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r3,被试001,Peak(Hz),0.0400390625,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r3,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Frequency Domain  LF Data
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r3,被试001,Power(ms²),471.9578246263204,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r3,被试001,Power Percent(%),16.82035591302569,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r3,被试001,Power Norm.,0.3322709812142179,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r3,被试001,Peak(Hz),0.150390625,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r3,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Frequency Domain HF Data
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r3,被试001,Total Power(ms²),2805.87299737716,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r3,被试001,LF/HF,2.009591738483149,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r3,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Frequency Domain TP & LF/HF Data
+p01-r1,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r2,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r3,被试001,Sensor Name,,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r3,被试001,SD1(ms),23.43608874378516,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r3,被试001,SD2(ms),77.8910546736975,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r3,被试001,A++(count),225.0,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r3,被试001,B--(count),212.0,export_P01_sheets,P,ECG HRV Nonlinear
+p01-r3,被试001,Segment Count,1.0,export_P01_sheets,P,ECG HRV Nonlinear
